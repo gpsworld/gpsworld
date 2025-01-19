@@ -4,7 +4,7 @@
 ![6faead_3b472417d27e4eed8c9a4e468b5cd812~mv2](https://github.com/user-attachments/assets/ff233978-bc08-4fe0-805b-564bbf9d58f7)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gpsworld&label=Profile%20views&color=0e75b6&style=flat" alt="gpsworld" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gpsworld&label=Profile%20views&color=0e75b6&style=flat" alt="gpsworld" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpsworld" alt="gpsworld" /></a> </p>
 
