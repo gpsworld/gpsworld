@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm GPS❤️ </h1>
-<h3 align="center">A passionate full stack, AI developer and Data Enthusiast from India :IN: </h3>
+<h3 align="center">A passionate full stack, AI developer and Data Enthusiast from India ![India Flag](https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg)
+ </h3>
 
 ![6faead_3b472417d27e4eed8c9a4e468b5cd812~mv2](https://github.com/user-attachments/assets/ff233978-bc08-4fe0-805b-564bbf9d58f7)
 
