@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm GPS❤️ </h1>
-<h3 align="center">A passionate full stack, AI developer and Data Enthusiast from India </h3> ![icons8-india-flag-emoji-48](https://github.com/user-attachments/assets/09b35b15-8a6c-4729-8671-02d49b8f5d59)  
+<h3 align="center">A passionate full stack, AI developer and Data Enthusiast from India </h3> 
+![icons8-india-flag-emoji-48](https://github.com/user-attachments/assets/396a4f0f-70c8-480b-9500-c25ed7bdb2aa)
 
 ![6faead_3b472417d27e4eed8c9a4e468b5cd812~mv2](https://github.com/user-attachments/assets/ff233978-bc08-4fe0-805b-564bbf9d58f7)
 
